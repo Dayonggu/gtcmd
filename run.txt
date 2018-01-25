@@ -1,1 +1,1 @@
-ls -lh ..
+exit_cmd
