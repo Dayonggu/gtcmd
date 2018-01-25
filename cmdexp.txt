@@ -28,3 +28,5 @@ kill $(ps aux | grep trade_ETH_market.py | awk '{print $2}')
 python trade_sche_market.py
 python trade_TEST_market.py
 python trade_T2_market.py
+
+python price_alert.py
