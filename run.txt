@@ -1,1 +1,2 @@
-exit-cmd
+
+python trade_BTC_market.py --round 2
