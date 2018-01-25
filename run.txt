@@ -1,2 +1,1 @@
-
-python trade_BTC_market.py --round 2
+./cba.sh
