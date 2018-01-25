@@ -1,1 +1,1 @@
-./cba.sh
+python check_balance.py
