@@ -1,0 +1,29 @@
+exit-cmd
+
+python trade_LTC_market.py
+python trade_LTC_market.py --startbuylimit 235.0
+python trade_LTC_market.py --round 5
+python trade_LTC_market.py --round 5 --size 0.1
+kill $(ps aux | grep trade_LTC_market.py | awk '{print $2}')
+
+python trade_BTC_market.py
+python trade_BTC_market.py --startbuylimit 12235.0
+python trade_BTC_market.py --round 5
+python trade_BTC_market.py --round 5 --size 0.002
+kill $(ps aux | grep trade_BTC_market.py | awk '{print $2}')
+
+python trade_BCH_market.py
+python trade_BCH_market.py --startbuylimit 1635.0
+python trade_BCH_market.py --round 5
+python trade_BCH_market.py --round 5  --size 0.015
+kill $(ps aux | grep trade_BCH_market.py | awk '{print $2}')
+
+python trade_ETH_market.py
+python trade_ETH_market.py --startbuylimit 935.0
+python trade_ETH_market.py --round 5
+python trade_ETH_market.py --round 5   --size 0.02
+kill $(ps aux | grep trade_ETH_market.py | awk '{print $2}')
+
+python trade_sche_market.py
+python trade_TEST_market.py
+python trade_T2_market.py
