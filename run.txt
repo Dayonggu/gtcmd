@@ -1,2 +1,2 @@
 
-python trade_BTC_market.py --round 2
+python trade_BTC_market.py --round 1
