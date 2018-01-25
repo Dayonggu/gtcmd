@@ -1,4 +1,5 @@
 exit-cmd
+./cba.sh
 
 python trade_LTC_market.py
 python trade_LTC_market.py --startbuylimit 235.0
