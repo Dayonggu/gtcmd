@@ -1,1 +1,1 @@
-python trade_BTC_market.py --round 5
+python trade_LTC_market.py --round 5
