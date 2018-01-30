@@ -1,1 +1,1 @@
-python trade_LTC_market.py --round 4
+ps aux | grep sch
