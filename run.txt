@@ -1,1 +1,1 @@
-ls ../log
+python trade_ETH_market.py --round 3   —size 0.016
