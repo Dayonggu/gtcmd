@@ -1,1 +1,1 @@
-python check_balance.py
+python trade_BTC_market.py --round 3
