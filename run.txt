@@ -1,1 +1,1 @@
-python trade_T_LTC_market.py --round 4
+python check_balance.py
