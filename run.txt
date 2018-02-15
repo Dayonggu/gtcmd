@@ -1,1 +1,1 @@
-python trade_ETH_market.py --round 4
+python trade_LTC_market.py --round 4
