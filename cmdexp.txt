@@ -1,5 +1,6 @@
 exit-cmd
 python check_balance.py
+python change_ava.py --unit -2
 
 python trade_LTC_market.py
 python trade_LTC_market.py --startbuylimit 235.0
