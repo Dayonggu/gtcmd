@@ -1,1 +1,1 @@
-python trade_ETH_market.py --round 5
+python trade_pair_market.py --round 5 --productid ETH-USD
