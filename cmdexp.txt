@@ -1,6 +1,7 @@
 exit-cmd
 python check_balance.py
 python change_ava.py --unit -2
+python trade_pair_market.py --productid LTC-USD --size 0.11 --round 5
 
 python trade_LTC_market.py
 python trade_LTC_market.py --startbuylimit 235.0
