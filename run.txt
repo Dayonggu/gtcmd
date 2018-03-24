@@ -1,1 +1,1 @@
-python trade_pair_market.py --round 5 --productid BCH-USD
+python trade_pair_market.py --round 5 --productid LTC-USD 
