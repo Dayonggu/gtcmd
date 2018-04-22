@@ -1,1 +1,1 @@
-python trade_pair_market.py --round 5 --productid LTC-USD 
+python trade_LTC_market.py --round 5
