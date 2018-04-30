@@ -1,1 +1,1 @@
-python trade_pair_market.py --productid BCH-USD
+python check_balance.py
