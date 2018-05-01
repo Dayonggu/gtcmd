@@ -1,1 +1,1 @@
-python check_balance.py
+python change_ava.py --unit -30
