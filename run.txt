@@ -1,1 +1,1 @@
-python change_ava.py --unit -30
+python change_ava.py --unit -20
