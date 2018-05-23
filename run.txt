@@ -1,1 +1,1 @@
-python trade_BCH_market.py --round 2
+python change_ava.py --unit 5
