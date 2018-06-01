@@ -1,1 +1,1 @@
-python change_ava.py --unit 5
+python trade_ETH_market.py --round 5
