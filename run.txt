@@ -1,1 +1,1 @@
-python trade_ETH_market.py --round 5
+python trade_pair_market.py --productid -BCH-USD --size 0.031 --round 6
