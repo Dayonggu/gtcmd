@@ -1,1 +1,1 @@
-python trade_BCH_market.py --round 5  --size 0.023
+python trade_BCH_market.py --round 5  --size 0.025
