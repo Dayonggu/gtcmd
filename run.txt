@@ -1,1 +1,1 @@
-python trade_LTC_market.py --round 5
+ython trade_pair_market.py --productid ETH-USD --size 0.035 --round 5
