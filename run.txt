@@ -1,1 +1,1 @@
-python trade_pair_market.py --productid ETH-USD --size 0.035 --round 5
+python change_ava.py --unit 3
