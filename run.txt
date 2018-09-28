@@ -1,1 +1,1 @@
-python change_ava.py --unit 3
+python trade_pair_market.py --productid BCH-USD --size 0.08 --round 5
