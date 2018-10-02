@@ -1,6 +1,8 @@
 exit-cmd
 python check_balance.py
 python change_ava.py --unit -2
+python set_order.py --side sell --product LTC --size 0.5 --price 800
+python set_order.py --side buy --product LTC --size 0.5 --price 0.001
 python trade_pair_market.py --productid LTC-USD --size 0.11 --round 5
 
 python trade_LTC_market.py
