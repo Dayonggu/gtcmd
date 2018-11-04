@@ -1,1 +1,1 @@
-python set_order.py --side sell --product BCH --size 0.04 --price 586
+python trade_pair_market.py --productid BCH-USD --size 0.06 --round 6
