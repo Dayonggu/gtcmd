@@ -1,1 +1,1 @@
-python set_order.py --side sell --product BCH --size 0.05 --price 442
+python set_order.py --side sell --product BCH --size 0.04 --price 586
