@@ -1,1 +1,1 @@
-python trade_pair_market.py --productid BTC-USD --size 0.0055 --round 5
+python trade_pair_market.py --productid LTC-USD --size 0.55 --round 5
