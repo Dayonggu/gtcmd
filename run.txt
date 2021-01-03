@@ -1,1 +1,1 @@
-python trade_pair_market.py --productid LTC-USD --size 0.7 --round 4
+python trade_pair_market.py --productid LTC-USD --size 0.5 --round 4
