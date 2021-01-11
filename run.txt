@@ -1,1 +1,1 @@
-python trade_pair_market.py --productid BCH-USD --size 0.182 --round 4
+python trade_pair_market.py --productid BCH-USD --size 0.152 --round 4
